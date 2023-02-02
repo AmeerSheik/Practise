@@ -1,9 +1,0 @@
-	
-s.no	question
-1	get total unemployed by all genders, all ages. All date range
-	get total unemployed by gender
-	get total unemployed by age , by gender.. Etc
-	
-2	get unemployees trend overall, by gender, by age
-	
-3	see total unemployees from highest lowest by age
